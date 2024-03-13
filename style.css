@@ -1,0 +1,16 @@
+/* ORIGINAL TASK PUPILS STARTED WITH
+Full credit to code.org for task */
+  
+p {
+  color: black;
+  font-size: 12px;
+} /*font side was missing - in the middle*/
+h1{
+  font-weight: bold;
+color: blue;
+  /*font color should be blue not black in the h1 and h2 tags*/
+}
+h2 {
+  color: green;
+
+}
